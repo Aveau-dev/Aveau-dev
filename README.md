@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarav Dhiman
 
-<!--
-**Aveau-dev/Aveau-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 13-year-old developer | Python, Web, UI/UX | India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Python programmer (HackerRank 2⭐, working towards 5⭐)
+- 🌐 Web developer (HTML/CSS/JS, modern UI, responsive design)
+- 🖥 Windows optimization enthusiast (hardware/software tweaks)
+- 🎯 Interested in business/productivity apps and real client projects
+- 🏫 Self-learning coding, daily practice & challenges
+
+---
+
+## 💼 Projects
+
+🟢 **Timely Pro**
+- Multi-function productivity app (KivyMD)
+- Features: Timers, tasks, alarms, notifications, modern UI
+- Python desktop, tested on Windows
+
+🟢 **ShopEasy** *(Stationery Shop Web Solution)*
+- Beautiful website + admin panel for local Indian shopkeepers
+- WhatsApp order, products, stock & price management
+- Pure HTML/CSS/JS (no backend needed), works offline
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, HTML5, CSS3, JavaScript
+- **Frameworks:** KivyMD, Bootstrap, IndexedDB, Canva (for design)
+- **Tools:** VS Code, Git, GitHub, GitLab, Google Docs
+
+---
+
+## 📈 Currently Learning
+
+- APIs & backend web dev basics (Node.js/Python Flask)
+- Advanced Python algorithms, OOP
+- How to build for real clients (portfolio sites, web stores)
+
+---
+
+## 📫 Contact Me
+
+- Gmail: [your_email@gmail.com]
+- WhatsApp: [if you want, optional]
+- [Your LinkedIn, if you have one]
+- Portfolio: [your GitLab link, if you'd like]
