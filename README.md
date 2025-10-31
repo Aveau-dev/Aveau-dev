@@ -17,7 +17,7 @@
 - **Focused on:** Real-world coding, automation, UI for everyone
 - **Stack:** Python, JavaScript, HTML/CSS, KivyMD, IndexedDB
 - **Beginner** but passionate, learning FAST, always building
-- **HackerRank:** 2⭐ and pushing higher!
+- **HackerRank:** 3⭐ and pushing higher!
 
 ---
 
