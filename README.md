@@ -39,7 +39,7 @@
 
 ### 📫 CONTACT ME
 
-- Gmail: dhiman.aarav362@gmail.com
+- Gmail: aveaucodes362@gmail.com
 - Location: India (UTC+5:30)
 
 ---
